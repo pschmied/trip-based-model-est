@@ -2,8 +2,10 @@
 Three datasets are frankensteined together for this. Unfortunately, all three had some pre-processing applied outside this application, and are not being pulled from any canonical location. TODO: Pull this data from whatever data store is canonical.
 
 ## Travel survey
-First is the PSRC travel survey person-trips data table. Variables include:
+First is the PSRC travel survey person-trips data table. Original data source is:
+R:\CHRIS\Development\HHSurvey2006\HHSurveyFinal.mdb
 
+Variables include:
 persontrip.id, zone.id.from, zone.id.to, mode.id, choice, hhnumveh, hhnumwkr, totalinc
 
 ## Zonal data
